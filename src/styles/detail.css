@@ -418,11 +418,11 @@ a.eProductQuantityDownClass {
 }
 
 a.eProductQuantityDownClass {
-  background-image: url(/bvtIMG/quantity_down.png) !important;
+  background-image: url(/src/images/quantity_down.png) !important;
 }
 
 a.eProductQuantityUpClass {
-  background-image: url(/bvtIMG/quantity_up.png) !important;
+  background-image: url(/src/images/quantity_up.png) !important;
 }
 
 a.eProductQuantityUpClass img,
